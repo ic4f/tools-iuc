@@ -2,6 +2,7 @@
 # Based heavily on the HISAT2 data manager wrapper
 
 from __future__ import print_function
+
 import argparse
 import os
 import subprocess
