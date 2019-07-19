@@ -18,6 +18,7 @@ or gzipped files on the fly, so long as the gzipped files end with 'gz'.
 
 # import sys
 from __future__ import print_function
+
 import argparse
 import gzip
 from itertools import zip_longest

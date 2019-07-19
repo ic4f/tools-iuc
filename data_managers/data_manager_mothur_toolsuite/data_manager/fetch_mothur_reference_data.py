@@ -2,6 +2,7 @@
 #
 # Data manager for reference data for the 'mothur_toolsuite' Galaxy tools
 from __future__ import print_function
+
 import functools
 import json
 import optparse

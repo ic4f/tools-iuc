@@ -4,6 +4,7 @@
 # using scikit-bio
 # Daniel Blankenberg
 from __future__ import print_function
+
 import codecs
 import optparse
 import sys
