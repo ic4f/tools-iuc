@@ -33,32 +33,14 @@ jobs:
 
     - stage: test
       env: CHUNK=0
-
-    - stage: test
       env: CHUNK=1
-
-    - stage: test
       env: CHUNK=2
-
-    - stage: test
       env: CHUNK=3
-
-    - stage: test
       env: CHUNK=4
-
-    - stage: test
       env: CHUNK=5
-
-    - stage: test
       env: CHUNK=6
-
-    - stage: test
       env: CHUNK=7
-
-    - stage: test
       env: CHUNK=8
-
-    - stage: test
       env: CHUNK=9
 
     - stage: deploy
